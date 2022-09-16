@@ -1,0 +1,13 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "https.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node https.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
